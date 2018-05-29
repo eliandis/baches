@@ -1,5 +1,5 @@
 import numpy as np
-def load_data_coverted(filename):
+def load_data_converted(filename):
     X = []
     Y = []
     f = open(filename, 'r')
